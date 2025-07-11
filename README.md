@@ -1,6 +1,6 @@
 ---
 
-# 🧠 Graph Traversal in Rust (DFS)
+# Graph Traversal in Rust (DFS)
 
 This project implements a **basic directed graph** using `HashMap` and explores it using **Depth-First Search (DFS)**.
 
