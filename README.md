@@ -6,15 +6,15 @@ This project implements a **basic directed graph** using `HashMap` and explores 
 
 ---
 
-## 🔧 Features
+## Features
 
-* 📌 **Graph represented as an adjacency list** (`HashMap<String, Vec<String>>`)
-* 🧠 **DFS traversal** with cycle handling using a `HashSet<String>`
-* ✅ Simple, readable code suitable for learning or quick prototyping
+*  **Graph represented as an adjacency list** (`HashMap<String, Vec<String>>`)
+*  **DFS traversal** with cycle handling using a `HashSet<String>`
+*  Simple, readable code suitable for learning or quick prototyping
 
 ---
 
-## 📦 Structure
+##  Structure
 
 ```rust
 struct Graph {
@@ -28,7 +28,7 @@ struct Graph {
 
 ---
 
-## 🧮 Example Graph
+##  Example Graph
 
 ```text
    A
@@ -53,7 +53,7 @@ g.add_edge("E", "C");
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 ### DFS Traversal
 
@@ -79,7 +79,7 @@ Visited -> E
 
 ---
 
-## 📚 How to Run
+##  How to Run
 
 1. Save the code to a file like `main.rs`
 2. Run with:
